@@ -138,7 +138,7 @@ export default function Home() {
                     icon = (
                       <Image
                         key={index}
-                        src="/jp-image.png"
+                        src="/jpimage.png"
                         alt="AI"
                         width="40"
                         height="40"
